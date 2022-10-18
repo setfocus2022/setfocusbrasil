@@ -24,7 +24,7 @@ export default function Home() {
     gtag.event({
       action: "agendar_consulta",
       category: "marcar_consulta_whatsapp",
-      label: "Faça um Orçamento",
+      label: "Impulsione seus negócios",
       value: "Orçamento",
     });
   }
@@ -58,13 +58,12 @@ export default function Home() {
         <div className={`mainContainer ${styles.heroWrap}`}>
           <section className={styles.leftContent}>
             <h1 className="title" data-aos="fade-up">
-              Atendimento personalizado faz toda a <strong>diferença</strong>
+              Seu site é seu <strong>cartão de visita</strong>
             </h1>
 
           
             <p data-aos="fade-up" data-aos-delay="200">
-            Nossa missão é entregar qualidade e preço baixo para proporcionar
-              máxima satisfação aos nossos Clientes.
+            Nossa missão vai além de criar, mas tambem entregar seu conteúdo ao publico qualificado.
             </p>
            
   
@@ -75,10 +74,10 @@ export default function Home() {
             >
               <Button
                 onClick={agendarConsulta}
-                link="https://wa.me/5514981189197"
+                link="https://wa.me/5514997406893"
               >
                 <img src="/icons/whatsIcon.svg" alt="whatsapp" />
-                Fale com nossos Vendedores
+                Impulsione seus negócios
               </Button>
               {/* <span>
                 Ou nos ligue: <strong>(14) 3264-9999</strong>
@@ -122,7 +121,7 @@ export default function Home() {
 
           <div className={styles.aboutRightContent} data-aos="fade-up">
             <h3>
-              <strong2>Referência em Qualidade de Materiais Elétricos em</strong2> <strong>Lençóis Paulista e Região.</strong>
+              <strong2>Transforme suas idéias em  </strong2> <strong>oportunidades.</strong>
             </h3>
             <p>
             
