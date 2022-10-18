@@ -19,11 +19,11 @@ export const Footer = ({ children, link = "/" }) => {
           </Link>
 
           <div>
-            <h3>Eletro Santa Clara - Loja 1</h3>
+            <h3>SetFocus Brasil</h3>
             <ul>
-              <li>(14) 3269-1057</li>
-              <li>vendas@eletrosantaclara.com.br</li>
-              <li>Av. Brasil, 589- Centro</li>
+              <li>(14) 99740-6893</li>
+              <li>agenciasetfocus@gmail.com</li>
+              <li></li>
               <li>Lençóis Paulista - SP</li>
               <li className={styles.social}>
                 <Link href="https://www.instagram.com/eletrosantaclara">
@@ -61,9 +61,9 @@ export const Footer = ({ children, link = "/" }) => {
           </div>
 
           <div>
-            <h3>Eletro Santa Clara - loja 2</h3>
-            <p> Rua Pastor Natalino Paulino, nº. 260, Vila Santa Cecília</p>
-            <p>Fone 14 3269.1717 - 14 98118.8248</p>
+            <h3></h3>
+            <p> </p>
+            <p></p>
           </div>
 
           <div>
@@ -75,7 +75,7 @@ export const Footer = ({ children, link = "/" }) => {
       </footer>
 
       <p className={`${styles.copy}`}>
-        2022 © Eletro Santa Clara. Todos os direitos reservados.
+        2022 © Agência SetFocus Brasil. Todos os direitos reservados.
       </p>
     </>
   );
