@@ -9,12 +9,12 @@ export const Footer = ({ children, link = "/" }) => {
         <div className={`mainContainer ${styles.footerWrap}`}>
           <Link href="/">
             <a className={styles.logo}>
-              <Image
+            {/*  <Image
                 src="/icons/logo_transparente2.png"
                 alt="Logo"
                 width="250"
                 height="180"
-              />
+              />  */}
             </a>
           </Link>
 
