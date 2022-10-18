@@ -121,7 +121,7 @@ export default function Home() {
 
           <div className={styles.aboutRightContent} data-aos="fade-up">
             <h3>
-              <strong2>Transforme suas idéias em  </strong2> <strong>oportunidades.</strong>
+              <strong2>Transforme suas ideias em  </strong2> <strong>oportunidades.</strong>
             </h3>
             <p>
             
