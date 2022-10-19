@@ -63,8 +63,7 @@ export default function Home() {
 
           
             <p data-aos="fade-up" data-aos-delay="200">
-            Nossa missão vai além de criar, mas tambem entregar seu conteúdo ao publico qualificado.
-            </p>
+            Nossa missão vai além de criar, mas tambem entregar seu conteúdo ao publico qualificado. Saiba como a SetFocus Brasil consegue potencializar seus resultados.             </p>
            
   
             <div
