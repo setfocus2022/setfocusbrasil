@@ -32,17 +32,17 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Home | Eletro Santa Clara</title>
+        <title>Home | Agência SetFocus</title>
         <meta
           name="description"
-          content="Eletro Santa Clara - Referência em Qualidade e Ótimos Preços em Lençóis Pta e Região"
+          content="Agência SetFocus - Geramos demanda para seu time de vendas"
         />
         <meta
           name="keywords"
-          content="eletro santa clara, materiais elétricos, média tensão,ferragens, alta tensão, tomada, interruptor, disjuntor, contator, para-raio, poste, transformador
+          content=" Geramos demanda para seu time de vendas, marketing, marketing digital, marketing online, publicidade digital, campanha google, ads "
           "
         />
-        <meta name="author" content="Santa Clara" />
+        <meta name="author" content="SetFocus Brasil" />
         
                
       </Head>
@@ -123,7 +123,7 @@ export default function Home() {
               <strong2>Transforme suas ideias em  </strong2> <strong>oportunidades.</strong>
             </h3>
             <p>
-            
+            Geramos demanda para seu time de vendas!
             </p>
             <Button link="/empresa" target="_self">
               Conheça nossas mágicas

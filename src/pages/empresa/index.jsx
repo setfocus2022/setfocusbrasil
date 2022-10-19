@@ -17,14 +17,14 @@ export default function Clinica() {
   return (
     <>
       <Head>
-        <title>Sobre a Empresa | Eletro Santa Clara</title>
+        <title>Sobre a Empresa | Agência SetFocus</title>
         <meta
           name="description"
-          content="Eletro Santa Clara"
+          content="Agência SetFocus - Geramos demanda para seu time de vendas"
         />
         <meta
           name="keywords"
-          content="eletro santa clara, materiais elétricos, média tensão,ferragens, alta tensão, tomada, interruptor, disjuntor, contator, para-raio, poste, transformador"
+          content="Geramos demanda para seu time de vendas, marketing, marketing digital, marketing online, publicidade digital, campanha google, ads "
         />
         <meta name="author" content="Eletro Santa Clara" />
       </Head>
