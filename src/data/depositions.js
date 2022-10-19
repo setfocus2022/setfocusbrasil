@@ -1,28 +1,23 @@
 export const depositions = [
   {
     id: 1,
-    name: "Aldrin C. Alves da Rocha ",
+    name: "Alan - Elitiun Tecnologia",
     description:
-      "Dra Lais e a sua secretária estão de parabéns pelo seu atendimento com os pacientes e a delicadeza para com os seus pacientes pois trabalham com dedicação e respeito, pois tem muito amor na sua profissão e com certeza vai muito longe.",
+      "Havia uma potencial cliente do meu lado só passei a existir pra ele após as campanhas de Display e Resultados de busca que a SetFocus Brasil arquitetou para nossa empresa. ",
   },
   {
     id: 2,
-    name: "Marcelo Albuquerque ",
+    name: "Bruno Silva - Castanha Silva ",
     description:
-      "Bom dia, gostaria de relatar minha experiência no consultório. De início fui muito bem recepcionado pela Simone, ela quem me apresentou e me deixou a vontade.Pós fui atendido pela Dra Lais, com sua simpatia e esperteza, se faz uma profissional de excelência. Dito então não achei outra forma de ficar muito feliz num geral, os resultados foram evidentes, as queixas que eu tinha foram resolvidas.Só tenho a agradecer e onde for dar um belo sorriso e deixar claro que foi com a Dra Lais que o alcancei.",                                  
+      "Vender castanha do Pará a nível nacional parecia impossivel, mas a SetFocus Brasil nos proporcionou essa mágica, só tenho a agradecer",                                  
    },
    {
     id: 3,
-    name: "Priscilla Angelico ",
+    name: "Claudio Carrilho - Eletro Santa Clara",
     description:
-      "Adorei o atendimento. Desde o primeiro contato com a clínica, agendamento, até a confirmação, recepção e atendimento da Dra Laís. A Dra é muito atenciosa, sempre questionando se há algum desconforto no procedimento, explicando tudo. Adorei de verdade. Preço justo ao atendimento prestado. Voltarei mais vezes e , com certeza indicarei. Estimo que continuem assim. ",                                  
+      " Se você deixa de investir em publicidade, seja qual seja o tipo de mídia, sua enpresa deixa de existir para o público consumidor  ",                                  
    },
-   {
-    id: 4,
-    name: "Thais Moretto ",
-    description:
-      "A Dra Laís é muito atenciosa e seu trabalho é excelente! Super recomendo. Amei! ",                                  
-   },
+
 
   // {
   //   id: 2,

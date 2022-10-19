@@ -63,7 +63,7 @@ export default function Home() {
 
           
             <p data-aos="fade-up" data-aos-delay="200">
-            Nossa missão vai além de criar, mas tambem entregar seu conteúdo ao publico qualificado. Saiba como a SetFocus Brasil consegue potencializar seus resultados.             </p>
+            Nossa missão vai além de criar, mas tambem entregar seu conteúdo ao publico qualificado. Saiba como a SetFocus Brasil consegue potencializar seus resultados. Saiba o que nossa mágica é capaz de fazer por sua empresa.             </p>
            
   
             <div
@@ -126,7 +126,7 @@ export default function Home() {
             
             </p>
             <Button link="/empresa" target="_self">
-              Ver Mais
+              Conheça nossas mágicas
             </Button>
           </div>
 
@@ -358,7 +358,7 @@ export default function Home() {
         />
       </section>
    */}
-   
+
       <section className={styles.patients}>
         <Title
           title="Pacientes Satisfeitos"
