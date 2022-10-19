@@ -9,7 +9,7 @@ export const depositions = [
     id: 2,
     name: "Bruno Silva - Castanha Silva ",
     description:
-      "Vender castanha do Pará a nível nacional parecia impossível, mas a SetFocus Brasil nos proporcionou essa mágica, só tenho a agradecer",                                  
+      "Vender castanha do Pará a nível nacional parecia impossível, mas a SetFocus Brasil nos proporcionou essa mágica, só tenho a agradecer ",                                  
    },
    {
     id: 3,
