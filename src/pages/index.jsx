@@ -361,8 +361,8 @@ export default function Home() {
 
       <section className={styles.patients}>
         <Title
-          title="Pacientes Satisfeitos"
-          subtitle="Cuidados focado no paciente"
+          title=" Depoimentos "
+          subtitle=" Alguns pensamentos de nossos Clientes "
         />
 
         <ul className={`${styles.patientsList} mainContainer`}>
