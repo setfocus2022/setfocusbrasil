@@ -357,7 +357,8 @@ export default function Home() {
           data-aos="fade-down"
         />
       </section>
-
+   */}
+   
       <section className={styles.patients}>
         <Title
           title="Pacientes Satisfeitos"
@@ -391,7 +392,7 @@ export default function Home() {
           ))}
         </div>
       </section>
-   */}
+
       <Footer />
     </>
   );
