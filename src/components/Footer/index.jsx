@@ -26,7 +26,7 @@ export const Footer = ({ children, link = "/" }) => {
               <li></li>
               <li>Lençóis Paulista - SP</li>
               <li className={styles.social}>
-                <Link href="https://www.instagram.com/eletrosantaclara">
+                <Link href="https://www.instagram.com/setfocusbrasil/">
                   <a target="_blank">
                     <Image
                       src="/icons/instaFooter.svg"
@@ -36,7 +36,7 @@ export const Footer = ({ children, link = "/" }) => {
                     />
                   </a>
                 </Link>
-                <Link href="https://www.facebook.com/eletrosantaclara/">
+                <Link href="https://www.facebook.com/profile.php?id=100086730139837">
                   <a target="_blank">
                     <Image
                       src="/icons/faceFooter.svg"
