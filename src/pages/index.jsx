@@ -40,7 +40,7 @@ export default function Home() {
         <meta
           name="keywords"
           content=" Geramos demanda para seu time de vendas, marketing, marketing digital, marketing online, publicidade digital, campanha google, ads "
-          "
+      
         />
         <meta name="author" content="SetFocus Brasil" />
         
