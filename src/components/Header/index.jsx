@@ -16,7 +16,7 @@ export const Header = () => {
     gtag.event({
       action: "agendar_consulta_cabeçalho",
       category: "marcar_consulta_whatsapp_cabeçalho",
-      label: "Orçamento pelo Whatsapp",
+      label: "Conheça nossa mágica",
       value: "Marcar consulta",
     });
   }
@@ -62,7 +62,7 @@ export const Header = () => {
             <Link href="/">
               <a>Home</a>
             </Link>
-            <Link href="/produtos">
+            <Link href="/empresa">
               <a>Como Trabalhamos</a>
             </Link>
          
@@ -95,7 +95,7 @@ export const Header = () => {
               </Link>
             </li>
             <li onClick={closeMenu}>
-              <Link href="/produtos">
+              <Link href="/empresa">
                 <a>Como Trabalhamos</a>
               </Link>
             </li>
