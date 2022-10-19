@@ -3,13 +3,13 @@ export const depositions = [
     id: 1,
     name: "Alan - Elitiun Tecnologia",
     description:
-      "Havia uma potencial cliente do meu lado só passei a existir pra ele após as campanhas de Display e Resultados de busca que a SetFocus Brasil arquitetou para nossa empresa. ",
+      "Havia um potencial cliente do meu lado só passei a existir pra ele após as campanhas de display e resultados de busca que a SetFocus Brasil arquitetou para nossa empresa. ",
   },
   {
     id: 2,
     name: "Bruno Silva - Castanha Silva ",
     description:
-      "Vender castanha do Pará a nível nacional parecia impossivel, mas a SetFocus Brasil nos proporcionou essa mágica, só tenho a agradecer",                                  
+      "Vender castanha do Pará a nível nacional parecia impossível, mas a SetFocus Brasil nos proporcionou essa mágica, só tenho a agradecer",                                  
    },
    {
     id: 3,
