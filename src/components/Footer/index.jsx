@@ -36,7 +36,7 @@ export const Footer = ({ children, link = "/" }) => {
                     />
                   </a>
                 </Link>
-                <Link href="https://www.facebook.com/profile.php?id=100086730139837">
+                <Link href="https://wwww.facebook.com/setfocusbrasil">
                   <a target="_blank">
                     <Image
                       src="/icons/faceFooter.svg"
