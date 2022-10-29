@@ -58,12 +58,12 @@ export default function Home() {
         <div className={`mainContainer ${styles.heroWrap}`}>
           <section className={styles.leftContent}>
             <h1 className="title" data-aos="fade-up">
-              Somos além de uma<strong>mineradora de clientes. </strong>
+              Somos além de uma<strong> mineradora de clientes. </strong>
             </h1>
 
           
             <p data-aos="fade-up" data-aos-delay="200">
-            Nós não só conectamos novos clientes, mas tambem entregamos seu conteúdo ao publico qualificado. Saiba como a SetFocus Brasil consegue potencializar seus resultados. Saiba o que nossa mágica é capaz de fazer por sua empresa.             </p>
+            Nós não só conectamos novos clientes, mas também entregamos seu conteúdo ao público qualificado. Saiba como a SetFocus Brasil consegue potencializar seus resultados. Saiba o que nossa mágica é capaz de fazer por sua empresa.             </p>
            
   
             <div
