@@ -32,7 +32,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Home | Agência SetFocus</title>
+        <title>Home | Agência SetFocus - Conectando sua Empresa à Novos Clientes</title>
         <meta
           name="description"
           content="Agência SetFocus - Geramos demanda para seu time de vendas"
@@ -58,12 +58,12 @@ export default function Home() {
         <div className={`mainContainer ${styles.heroWrap}`}>
           <section className={styles.leftContent}>
             <h1 className="title" data-aos="fade-up">
-              Seu site é seu <strong>cartão de visita</strong>
+              Somos além de uma<strong>mineradora de clientes. </strong>
             </h1>
 
           
             <p data-aos="fade-up" data-aos-delay="200">
-            Nossa missão vai além de criar, mas tambem entregar seu conteúdo ao publico qualificado. Saiba como a SetFocus Brasil consegue potencializar seus resultados. Saiba o que nossa mágica é capaz de fazer por sua empresa.             </p>
+            Nós não só conectamos novos clientes, mas tambem entregamos seu conteúdo ao publico qualificado. Saiba como a SetFocus Brasil consegue potencializar seus resultados. Saiba o que nossa mágica é capaz de fazer por sua empresa.             </p>
            
   
             <div
@@ -123,7 +123,7 @@ export default function Home() {
               <strong2>Transforme suas ideias em  </strong2> <strong>oportunidades.</strong>
             </h3>
             <p>
-            Geramos demanda para seu time de vendas!
+            Geramos demanda para seu time de vendas! Conectamos sua Empresa à Novos Clientes
             </p>
             <Button link="/empresa" target="_self">
               Conheça nossas mágicas

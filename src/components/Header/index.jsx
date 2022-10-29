@@ -39,7 +39,7 @@ export const Header = () => {
             <a>
               <Image
                 src="/icons/logo_transparente.png"
-                alt="Eletro Santa Clara"
+                alt="SetFocus Brasil"
                 width="150"
                 height="122"
               />
