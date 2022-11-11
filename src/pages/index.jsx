@@ -58,7 +58,7 @@ export default function Home() {
         <div className={`mainContainer ${styles.heroWrap}`}>
           <section className={styles.leftContent}>
             <h1 className="title" data-aos="fade-up">
-              Estamos além de uma<strong> mineradora de clientes. </strong>
+              Entenda o quanto sua empresa pode crescer<strong> com nossas ações de Pubicidade Digital. </strong>
             </h1>
 
           
