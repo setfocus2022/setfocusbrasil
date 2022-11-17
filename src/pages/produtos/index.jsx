@@ -67,7 +67,52 @@ export default function Tratamentos() {
         <div className={styles.treatmentsItem} data-aos="fade-up">
           <MyImage
             src="/images/prod_2.png"
-            alt="Fios e Cabos"
+            alt="Materiais Elétricos"
+            width="350"
+            height="279"
+          />
+          <h3>Materiais Elétricos</h3>
+          <div className={styles.description}>
+          <p>
+            Site para Loja de Material Elétrico com foco no fortalecmento da marca e aumento da area de atuação de vendas.
+        
+          <p>Desenvolvido em ReactJs de alto desempenho, rapidez e SEO otimizado para o Google, além de estar integrado com o Google Analytcs e Ads para um melhor acompanhamento do desempenho. </p>
+           <p>Valor já inclui o registro do domínio por 01 ano. Brinde hospedagem grátis por 01 ano. 
+           Não perca tempo e tenha uma site de alta tecnologia por apenas R$ 2.500,00 já com o seu dominio .com.br e alavanque suas Vendas.</p>
+           <p>Veja modelo  :</p>   
+           <Link href="https://www.eletrosantaclara.com.br">
+                  <a target="_blank">
+                  Eletro Santa Clara
+                  </a>
+                </Link>
+           
+            </p>
+           
+          </div>
+        </div>
+
+
+        <div className={styles.treatmentsItem} data-aos="fade-up">
+          <MyImage
+            src="/images/prod_3.png"
+            alt="Toda linha de conduletes e acessórios."
+            width="350"
+            height="279"
+            left
+          />
+          <h3>Conduletes</h3>
+          <div className={styles.description}>
+            <p>
+            Se é de conexão e condução que voê precisa, nós dispomos de toda linha de conduletes e acessórios.
+            </p>
+          </div>
+        </div>
+
+
+        <div className={styles.treatmentsItem} data-aos="fade-up">
+          <MyImage
+            src="/images/prod_2.png"
+            alt="Materiais Elétricos"
             width="350"
             height="279"
           />
@@ -110,6 +155,95 @@ export default function Tratamentos() {
 
 
 
+        <div className={styles.treatmentsItem} data-aos="fade-up">
+          <MyImage
+            src="/images/prod_2.png"
+            alt="Materiais Elétricos"
+            width="350"
+            height="279"
+          />
+          <h3>Materiais Elétricos</h3>
+          <div className={styles.description}>
+          <p>
+            Site para Loja de Material Elétrico com foco no fortalecmento da marca e aumento da area de atuação de vendas.
+        
+          <p>Desenvolvido em ReactJs de alto desempenho, rapidez e SEO otimizado para o Google, além de estar integrado com o Google Analytcs e Ads para um melhor acompanhamento do desempenho. </p>
+           <p>Valor já inclui o registro do domínio por 01 ano. Brinde hospedagem grátis por 01 ano. 
+           Não perca tempo e tenha uma site de alta tecnologia por apenas R$ 2.500,00 já com o seu dominio .com.br e alavanque suas Vendas.</p>
+           <p>Veja modelo  :</p>   
+           <Link href="https://www.eletrosantaclara.com.br">
+                  <a target="_blank">
+                  Eletro Santa Clara
+                  </a>
+                </Link>
+           
+            </p>
+           
+          </div>
+        </div>
+
+
+        <div className={styles.treatmentsItem} data-aos="fade-up">
+          <MyImage
+            src="/images/prod_3.png"
+            alt="Toda linha de conduletes e acessórios."
+            width="350"
+            height="279"
+            left
+          />
+          <h3>Conduletes</h3>
+          <div className={styles.description}>
+            <p>
+            Se é de conexão e condução que voê precisa, nós dispomos de toda linha de conduletes e acessórios.
+            </p>
+          </div>
+        </div>
+
+
+
+        <div className={styles.treatmentsItem} data-aos="fade-up">
+          <MyImage
+            src="/images/prod_2.png"
+            alt="Materiais Elétricos"
+            width="350"
+            height="279"
+          />
+          <h3>Materiais Elétricos</h3>
+          <div className={styles.description}>
+          <p>
+            Site para Loja de Material Elétrico com foco no fortalecmento da marca e aumento da area de atuação de vendas.
+        
+          <p>Desenvolvido em ReactJs de alto desempenho, rapidez e SEO otimizado para o Google, além de estar integrado com o Google Analytcs e Ads para um melhor acompanhamento do desempenho. </p>
+           <p>Valor já inclui o registro do domínio por 01 ano. Brinde hospedagem grátis por 01 ano. 
+           Não perca tempo e tenha uma site de alta tecnologia por apenas R$ 2.500,00 já com o seu dominio .com.br e alavanque suas Vendas.</p>
+           <p>Veja modelo  :</p>   
+           <Link href="https://www.eletrosantaclara.com.br">
+                  <a target="_blank">
+                  Eletro Santa Clara
+                  </a>
+                </Link>
+           
+            </p>
+           
+          </div>
+        </div>
+
+
+        <div className={styles.treatmentsItem} data-aos="fade-up">
+          <MyImage
+            src="/images/prod_3.png"
+            alt="Toda linha de conduletes e acessórios."
+            width="350"
+            height="279"
+            left
+          />
+          <h3>Conduletes</h3>
+          <div className={styles.description}>
+            <p>
+            Se é de conexão e condução que voê precisa, nós dispomos de toda linha de conduletes e acessórios.
+            </p>
+          </div>
+        </div>
 
         <div className={styles.treatmentsItem} data-aos="fade-up">
           <MyImage
