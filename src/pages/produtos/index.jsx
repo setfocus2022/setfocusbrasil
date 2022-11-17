@@ -73,24 +73,12 @@ export default function Tratamentos() {
             width="350"
             height="279"
           />
-          <h3>Lojas de Materiais Elétricos</h3>
+          <h3>Fios e Cabos</h3>
           <div className={styles.description}>
-          <p>
-            Site para Lojas de Materiais Elétricos com botão que chama o Whatsapp direto para o atendente.
-           </p>
-
-           <p>
-          <p>Desenvolvido em ReactJs de alto desempenho, rapidez e SEO otimizado para o Google, além de estar integrado com o Google Analytcs e Ads para um melhor acompanhamento do desempenho. </p>
-           <p>Valor já inclui o registro do domínio por 01 ano. Brinde hospedagem grátis por 01 ano. 
-           Não perca tempo e tenha uma site de alta tecnologia por apenas R$ 2.500,00 já com o seu dominio .com.br e alavanque suas Vendas.</p>
-           <p>Veja modelo  :</p>   
-           <Link href="https://www.eletrosantaclara.com.br/">
-                  <a target="_blank">
-                  Eletro Santa Clara
-                  </a>
-                </Link>
-           
+            <p>
+            Fios e cabos elétricos certificados pelo INMETRO. Garanta a segurança da sua obra!
             </p>
+            <p>
              
             </p>
           </div>
@@ -274,67 +262,7 @@ export default function Tratamentos() {
       </main>
 
 
-   {/*    <section className={styles.images}>
-        <Title title="Material Elétrico é na Eletro Santa Clara" subtitle="Qualidade é Nosso Destaque" />
-
-        <ul className={`${styles.imagesContainer} mainContainer`}>
-          <li data-aos="zoom-in-up">
-            <Image
-              src="/images/produto1.png"
-              alt="Produtos em Destaque"
-              width={460}
-              height={390}
-              objectFit="cover"
-            />
-          </li>
-          <li data-aos="zoom-in-up">
-            <Image
-              src="/images/produto2.png"
-              alt="Produtos em Destaque"
-              width={460}
-              height={390}
-              objectFit="cover"
-            />
-          </li>
-          <li data-aos="zoom-in-up">
-            <Image
-              src="/images/produto3.png"
-              alt="Produtos em Destaque"
-              width={460}
-              height={390}
-              objectFit="cover"
-            />
-          </li>
-          <li data-aos="zoom-in-up">
-            <Image
-              src="/images/produto4.png"
-              alt="Produtos em Destaque"
-              width={460}
-              height={390}
-              objectFit="cover"
-            />
-          </li>
-          <li data-aos="zoom-in-up">
-            <Image
-              src="/images/produto5.png"
-              alt="Produtos em Destaque"
-              width={460}
-              height={390}
-              objectFit="cover"
-            />
-          </li>
-          <li data-aos="zoom-in-up">
-            <Image
-              src="/images/produto6.png"
-              alt="Produtos em Destaque"
-              width={460}
-              height={390}
-              objectFit="cover"
-            />
-          </li>
-        </ul>
-      </section>  */}
-
+     
       <Footer />
     </>
   );
