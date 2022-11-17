@@ -49,9 +49,9 @@ export default function Tratamentos() {
            </p>
 
            <p>
-          <p>Desenvolvido em ReactJs de alto desempenho, rapidez e SEO otimizado para o Google, além de estar integrado com o Google Analytcs e Ads para um melhor acompanhamento do desempenho. </br>
+          <p>Desenvolvido em ReactJs de alto desempenho, rapidez e SEO otimizado para o Google, além de estar integrado com o Google Analytcs e Ads para um melhor acompanhamento do desempenho. </p>
            <p>Valor já inclui o registro do domínio por 01 ano. Brinde hospedagem grátis por 01 ano. 
-           Não perca tempo e tenha uma site de alta tecnologia por apenas R$ 500,00 já com o seu dominio .com.br e alavanque suas Vendas.</br>
+           Não perca tempo e tenha uma site de alta tecnologia por apenas R$ 500,00 já com o seu dominio .com.br e alavanque suas Vendas.</p>
            <p>Veja modelo  :</p>   
            <Link href="https://lacasapizzabar.vercel.app/">
                   <a target="_blank">
@@ -261,7 +261,8 @@ export default function Tratamentos() {
         </div>
       </main>
 
-      <section className={styles.images}>
+
+   {/*    <section className={styles.images}>
         <Title title="Material Elétrico é na Eletro Santa Clara" subtitle="Qualidade é Nosso Destaque" />
 
         <ul className={`${styles.imagesContainer} mainContainer`}>
@@ -320,7 +321,7 @@ export default function Tratamentos() {
             />
           </li>
         </ul>
-      </section>
+      </section>  */}
 
       <Footer />
     </>
