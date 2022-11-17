@@ -42,7 +42,7 @@ export default function Tratamentos() {
             height="279"
             left
           />
-          <h3>Pizzaria e Lanchonetes - Delivery em Geral</h3>
+          <h3> Delivery em Geral </h3>
           <div className={styles.description}>
             <p>
             Site disk entrega para Pizzaria com botão que chama o Whatsapp direto para o pedido.
