@@ -49,8 +49,8 @@ export default function Tratamentos() {
            </p>
 
            <p>
-          <br>Desenvolvido em ReactJs de alto desempenho, rapidez e SEO otimizado para o Google, além de estar integrado com o Google Analytcs e Ads para um melhor acompanhamento do desempenho. </br>
-           <br>Valor já inclui o registro do domínio por 01 ano. Brinde hospedagem grátis por 01 ano. 
+          <p>Desenvolvido em ReactJs de alto desempenho, rapidez e SEO otimizado para o Google, além de estar integrado com o Google Analytcs e Ads para um melhor acompanhamento do desempenho. </br>
+           <p>Valor já inclui o registro do domínio por 01 ano. Brinde hospedagem grátis por 01 ano. 
            Não perca tempo e tenha uma site de alta tecnologia por apenas R$ 500,00 já com o seu dominio .com.br e alavanque suas Vendas.</br>
            <p>Veja modelo  :</p>   
            <Link href="https://lacasapizzabar.vercel.app/">
