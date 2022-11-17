@@ -130,7 +130,7 @@ export default function Tratamentos() {
           <h3>Eletro-Refrigeração</h3>
           <div className={styles.description}>
           <p>
-            Site para empresas que trabalham com venda e manutenção de equipamentos de refrigeração com foco no fortalecmento da marca e aumento da area de atuação de vendas.
+            Site para empresas que trabalham com venda e manutenção de equipamentos de refrigeração.
         
           <p>Desenvolvido em ReactJs de alto desempenho, rapidez e SEO otimizado para o Google, além de estar integrado com o Google Analytcs e Ads para um melhor acompanhamento do desempenho. </p>
            <p>Valor já inclui o registro do domínio por 01 ano. Brinde hospedagem grátis por 01 ano. 
