@@ -94,7 +94,7 @@ export default function Tratamentos() {
 
         <div className={styles.treatmentsItem} data-aos="fade-up">
           <MyImage
-            src="/images/prod_2.png"
+            src="/images/prod_3.png"
             alt="Materiais Elétricos"
             width="350"
             height="279"
