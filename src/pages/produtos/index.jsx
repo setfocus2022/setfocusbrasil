@@ -9,7 +9,6 @@ import { Title } from "../../components/Title";
 import Aos from "aos";
 import "aos/dist/aos.css";
 import styles from "./styles.module.scss";
-import styles from "../styles/Home.module.scss";
 
 export default function Tratamentos() {
   useEffect(() => {
@@ -56,7 +55,7 @@ export default function Tratamentos() {
            Veja modelo  :   
            <Link href="https://lacasapizzabar.vercel.app/">
                   <a target="_blank">
-                 <strong> Site La Casa Pizza Bar</strong>  
+                  Site La Casa Pizza Bar
                   </a>
                 </Link>
            
