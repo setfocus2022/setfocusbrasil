@@ -44,7 +44,7 @@ export default function Tratamentos() {
           <h3>Pizzaria e Lanchonetes - Delivery em Geral</h3>
           <div className={styles.description}>
             <p>
-           <Sttong2>Site Disk Entrega para Pizzaria desenvolvido em ReactJS - Brinde hospedagem</Sttong2> 
+           <Strong2>Site Disk Entrega para Pizzaria desenvolvido em ReactJS - Brinde hospedagem</Strong2> 
            </p>
 
            <p>
