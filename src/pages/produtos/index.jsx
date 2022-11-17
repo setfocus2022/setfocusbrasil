@@ -108,9 +108,9 @@ export default function Tratamentos() {
            <p>Valor já inclui o registro do domínio por 01 ano. Brinde hospedagem grátis por 01 ano. 
            Não perca tempo e tenha uma site de alta tecnologia á com o seu dominio .com.br e alavanque suas Vendas.</p>
            <p>Veja modelo  :</p>   
-           <Link href="https://www.eletrosantaclara.com.br">
+           <Link href="https://www.dralaisconeglian.com.br">
                   <a target="_blank">
-                  Eletro Santa Clara
+                  Clinica Dra Laís Coneglian
                   </a>
                 </Link>
            
@@ -127,18 +127,18 @@ export default function Tratamentos() {
             width="350"
             height="279"
           />
-          <h3>Materiais Elétricos</h3>
+          <h3>Eletro-Refrigeração</h3>
           <div className={styles.description}>
           <p>
-            Site para Loja de Material Elétrico com foco no fortalecmento da marca e aumento da area de atuação de vendas.
+            Site para empresas que trabalham com venda e manutenção de equipamentos de refrigeração com foco no fortalecmento da marca e aumento da area de atuação de vendas.
         
           <p>Desenvolvido em ReactJs de alto desempenho, rapidez e SEO otimizado para o Google, além de estar integrado com o Google Analytcs e Ads para um melhor acompanhamento do desempenho. </p>
            <p>Valor já inclui o registro do domínio por 01 ano. Brinde hospedagem grátis por 01 ano. 
-           Não perca tempo e tenha uma site de alta tecnologia por apenas R$ 2.500,00 já com o seu dominio .com.br e alavanque suas Vendas.</p>
+           Não perca tempo e tenha uma site de alta tecnologia já com o seu dominio .com.br e alavanque suas Vendas.</p>
            <p>Veja modelo  :</p>   
-           <Link href="https://www.eletrosantaclara.com.br">
+           <Link href="https://eder-refrigeracao.vercel.app/">
                   <a target="_blank">
-                  Eletro Santa Clara
+                  Eder Refrigeração - Site Demonstrativo
                   </a>
                 </Link>
            
@@ -155,18 +155,18 @@ export default function Tratamentos() {
             width="350"
             height="279"
           />
-          <h3>Materiais Elétricos</h3>
+          <h3>Depósito de Gás</h3>
           <div className={styles.description}>
           <p>
-            Site para Loja de Material Elétrico com foco no fortalecmento da marca e aumento da area de atuação de vendas.
+            Site para depósito de gás com foco no fortalecmento da marca e aumento da area de atuação de vendas.
         
           <p>Desenvolvido em ReactJs de alto desempenho, rapidez e SEO otimizado para o Google, além de estar integrado com o Google Analytcs e Ads para um melhor acompanhamento do desempenho. </p>
            <p>Valor já inclui o registro do domínio por 01 ano. Brinde hospedagem grátis por 01 ano. 
-           Não perca tempo e tenha uma site de alta tecnologia por apenas R$ 2.500,00 já com o seu dominio .com.br e alavanque suas Vendas.</p>
+           Não perca tempo e tenha uma site de alta tecnologia já com o seu dominio .com.br e alavanque suas Vendas.</p>
            <p>Veja modelo  :</p>   
-           <Link href="https://www.eletrosantaclara.com.br">
+           <Link href="https://paivagas.vercel.app/">
                   <a target="_blank">
-                  Eletro Santa Clara
+                  Paiva Gás Lençóis Paulista - Site demonstrativo
                   </a>
                 </Link>
            
