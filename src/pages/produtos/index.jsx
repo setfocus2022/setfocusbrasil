@@ -29,7 +29,7 @@ export default function Tratamentos() {
       </Head>
 
       <div>
-        <HeaderPage subtitle="" title="sites sob medida para seu negócio" />
+        <HeaderPage subtitle="" title="  Sites sob medida para seu negócio" />
       </div>
       <main className={`${styles.treatments} mainContainer`}>
 
