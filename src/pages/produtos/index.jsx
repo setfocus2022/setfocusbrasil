@@ -44,22 +44,13 @@ export default function Tratamentos() {
           <h3>Pizzaria e Lanchonetes - Delivery em Geral</h3>
           <div className={styles.description}>
             <p>
-           Site Disk Entrega para Pizzaria desenvolvido em React JS - Brinde hospedagem
+            Site disk entrega para Pizzaria com botão que chama o Whatsapp direto para o pedido.
            </p>
 
            <p>
-Site disk entrega para Pizzaria com botão que chama o Whatsapp direto para o pedido. 
-
-Desenvolvido em ReactJs de alto desempenho, rapidez e SEO otimizado para o Google, além de estar integrado com o Google Analytcs e Ads para um melhor acompanhamento do desempenho. 
-
-Valor já inclui o registro do domínio por 01 ano 
-
-Brinde hospedagem grátis por 01 ano.
-
-Não perca tempo e tenha uma site de alta tecnologia por apenas R$ 500,00 já com o seu dominio .com.br e alavanque suas Vendas
-
-Veja modelo:
-lacasapizzabar.vercel.app
+          <p>Desenvolvido em ReactJs de alto desempenho, rapidez e SEO otimizado para o Google, além de estar integrado com o Google Analytcs e Ads para um melhor acompanhamento do desempenho. </p>
+           Valor já inclui o registro do domínio por 01 ano. Brinde hospedagem grátis por 01 ano. Não perca tempo e tenha uma site de alta tecnologia por apenas R$ 500,00 já com o seu dominio .com.br e alavanque suas Vendas
+           Veja modelo:lacasapizzabar.vercel.app
             </p>
           </div>
         </div>
