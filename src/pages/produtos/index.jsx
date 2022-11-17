@@ -44,8 +44,10 @@ export default function Tratamentos() {
           <h3>Pizzaria e Lanchonetes - Delivery em Geral</h3>
           <div className={styles.description}>
             <p>
-            Site Disk Entrega para Pizzaria desenvolvido em ReactJS - Brinde hospedagem
+           <Sttong>Site Disk Entrega para Pizzaria desenvolvido em ReactJS - Brinde hospedagem</Sttong> 
+           </p>
 
+           <p>
 Site disk entrega para Pizzaria com botão que chama o Whatsapp direto para o pedido. 
 
 Desenvolvido em ReactJs de alto desempenho, rapidez e SEO otimizado para o Google, além de estar integrado com o Google Analytcs e Ads para um melhor acompanhamento do desempenho. 
