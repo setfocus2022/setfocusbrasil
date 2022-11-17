@@ -40,8 +40,8 @@ export const Header = () => {
               <Image
                 src="/icons/logo_transparente.png"
                 alt="SetFocus Brasil"
-                width="150"
-                height="122"
+                width="120"
+                height="102"
               />
             </a>
           </Link>
