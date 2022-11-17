@@ -32,10 +32,10 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Home | Agência SetFocus - Conectando sua Empresa à Novos Clientes</title>
+        <title>Home | Agência SetFocus Brasil - Conectando sua Empresa à Novos Clientes</title>
         <meta
           name="description"
-          content="Agência SetFocus - Geramos demanda para seu time de vendas"
+          content="Agência SetFocus Brasil - Geramos demanda para seu time de vendas"
         />
         <meta
           name="keywords"
@@ -58,7 +58,7 @@ export default function Home() {
         <div className={`mainContainer ${styles.heroWrap}`}>
           <section className={styles.leftContent}>
             <h1 className="title" data-aos="fade-up">
-              Entenda o quanto sua empresa pode crescer<strong> com nossas ações de Pubicidade Digital. </strong>
+            Geramos demanda para seu time de vendas! 
             </h1>
 
           
@@ -123,7 +123,7 @@ export default function Home() {
               <strong2>Transforme suas ideias em  </strong2> <strong>oportunidades.</strong>
             </h3>
             <p>
-            Geramos demanda para seu time de vendas! Conectamos sua Empresa à Novos Clientes
+            Entenda o quanto sua empresa pode crescer<strong> com nossas ações de Publicidade Digital. </strong>
             </p>
             <Button link="/empresa" target="_self">
               Conheça nossas mágicas
