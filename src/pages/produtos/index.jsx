@@ -191,15 +191,7 @@ export default function Tratamentos() {
           </div>
         </div> */}
 
-        <div className={styles.treatmentsItem} data-aos="fade-up">
-          <MyImage src="/images/prod_11.png" alt="Toda linha de plugs e tomadas industriais." width="350" height="279" left />
-          <h3>Plugs e tomadas industriais</h3>
-          <div className={styles.description}>
-            <p>
-            Toda linha de plugs e tomadas industriais.
-            </p>
-          </div>
-        </div>
+   
       </main>
 
 
