@@ -95,8 +95,8 @@ export const Header = () => {
               </Link>
             </li>
             <li onClick={closeMenu}>
-              <Link href="/">
-                <a>Como Trabalhamos</a>
+              <Link href="/produtos">
+                <a>Produtos</a>
               </Link>
             </li>
  
