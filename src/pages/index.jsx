@@ -63,7 +63,7 @@ export default function Home() {
 
           
             <p data-aos="fade-up" data-aos-delay="200">
-            Nós não só conectamos novos clientes, mas também entregamos seu conteúdo ao público qualificado. Saiba como a SetFocus Brasil consegue potencializar seus resultados. Saiba o que nossa mágica é capaz de fazer por sua empresa.             </p>
+            Saiba como a SetFocus Brasil consegue potencializar seus resultados. Saiba o que nossa mágica é capaz de fazer por sua empresa.             </p>
            
   
             <div
