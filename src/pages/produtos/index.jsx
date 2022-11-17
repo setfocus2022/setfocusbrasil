@@ -16,16 +16,16 @@ export default function Tratamentos() {
   return (
     <>
       <Head>
-        <title>Produtos | Materiais Elétricos - Eletro Santa Clara</title>
+        <title>Produtos | Sites prontos com dominio e marketing SEO integrado com o Google</title>
         <meta
           name="description"
           content="As melhores marcas. Produtos certificados e qualificados"
         />
         <meta
           name="keywords"
-          content="eletro santa clara, materiais elétricos, média tensão,ferragens, alta tensão, tomada, interruptor, disjuntor, contator, para-raio, poste, transformador"
+          content="marketing digital, site, contrução de site, página institucional"
         />
-        <meta name="author" content=" Eletro Santa Clara" />
+        <meta name="author" content=" Marketing Digital - SetFocus Brasil " />
       </Head>
 
       <div>
