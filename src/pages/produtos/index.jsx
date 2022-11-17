@@ -54,7 +54,7 @@ export default function Tratamentos() {
            Veja modelo:  
            <Link href="https://lacasapizzabar.vercel.app">
                   <a target="_blank">
-                  lacasapizzabar.vercel.app
+                  
                   </a>
                 </Link>
            
