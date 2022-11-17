@@ -73,12 +73,24 @@ export default function Tratamentos() {
             width="350"
             height="279"
           />
-          <h3>Fios e Cabos</h3>
+          <h3>Lojas de Materiais Elétricos</h3>
           <div className={styles.description}>
-            <p>
-            Fios e cabos elétricos certificados pelo INMETRO. Garanta a segurança da sua obra!
+          <p>
+            Site para Lojas de Materiais Elétricos com botão que chama o Whatsapp direto para o atendente.
+           </p>
+
+           <p>
+          <p>Desenvolvido em ReactJs de alto desempenho, rapidez e SEO otimizado para o Google, além de estar integrado com o Google Analytcs e Ads para um melhor acompanhamento do desempenho. </p>
+           <p>Valor já inclui o registro do domínio por 01 ano. Brinde hospedagem grátis por 01 ano. 
+           Não perca tempo e tenha uma site de alta tecnologia por apenas R$ 2.500,00 já com o seu dominio .com.br e alavanque suas Vendas.</p>
+           <p>Veja modelo  :</p>   
+           <Link href="https://www.eletrosantaclara.com.br/">
+                  <a target="_blank">
+                  Eletro Santa Clara
+                  </a>
+                </Link>
+           
             </p>
-            <p>
              
             </p>
           </div>
