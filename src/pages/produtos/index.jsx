@@ -29,14 +29,14 @@ export default function Tratamentos() {
       </Head>
 
       <div>
-        <HeaderPage subtitle="As melhores marcas" title="Produtos Certificados." />
+        <HeaderPage subtitle="Criamos sites sob medida para seu negócio" title="" />
       </div>
       <main className={`${styles.treatments} mainContainer`}>
 
         <div className={styles.treatmentsItem} data-aos="fade-up">
           <MyImage
-            src="/images/prod_1.png"
-            alt="Chuveiros"
+            src="/images/pizzaria.jpg"
+            alt="Pizzaria e Lanchonetes - Delivery em Geral"
             width="350"
             height="279"
             left
