@@ -53,14 +53,9 @@ export default function Tratamentos() {
            <p>Valor já inclui o registro do domínio por 01 ano. Brinde hospedagem grátis por 01 ano. </p>
            <p> Não perca tempo e tenha uma site de alta tecnologia por apenas R$ 500,00 já com o seu dominio .com.br e alavanque suas Vendas</p>
            Veja modelo:  
-           <Link href="https://www.instagram.com/setfocusbrasil/">
+           <Link href="https://lacasapizzabar.vercel.app/">
                   <a target="_blank">
-                    <Image
-                      src="/icons/instaFooter.svg"
-                      alt="Logo"
-                      width="30"
-                      height="30"
-                    />
+                  https://lacasapizzabar.vercel.app/
                   </a>
                 </Link>
            
