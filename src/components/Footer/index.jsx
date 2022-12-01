@@ -67,15 +67,15 @@ export const Footer = ({ children, link = "/" }) => {
           </div>
 
           <div>
-            <h3>Atendimento</h3>
-            <p>Seg - Sex: 08:00 - 18:00</p>
-            <p>Sáb: até 12h - Dom: Fechado</p>
+            <h3></h3>
+            <p></p>
+            <p></p>
           </div>
         </div>
       </footer>
 
       <p className={`${styles.copy}`}>
-        2022 © Agência SetFocus Brasil. Todos os direitos reservados.
+        2022 © Agência SetFocus Brasil. Beta RectJs Project.
       </p>
     </>
   );
