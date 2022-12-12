@@ -22,7 +22,7 @@ export const Footer = ({ children, link = "/" }) => {
             <h3>SetFocus Brasil</h3>
             <ul>
               <li>(14) 99740-6893</li>
-              <li>agenciasetfocus@gmail.com</li>
+              <li>vendas@setfocusbrasil.com.br</li>
               <li></li>
               <li>Lençóis Paulista - SP</li>
               <li className={styles.social}>
