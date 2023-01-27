@@ -69,6 +69,19 @@ export const Header = () => {
 
           </nav>
 
+          <nav className={styles.menu}>
+            <Link href="/">
+              <a>Home</a>
+            </Link>
+            <Link href="/produtos">
+              <a>Como chegar o Topo</a>
+            </Link>
+         
+
+          </nav>
+
+
+
           <div className={styles.btnAgendar}>
             <Button
               dark
