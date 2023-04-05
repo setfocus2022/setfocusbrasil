@@ -124,12 +124,9 @@ export default function Contato() {
               <li>
                 <p>
                   <img src="/icons/localizacaoIcon.svg" alt="Localização" />
-                  - Pedido de Compras
-- Ordem de Serviço
-- Pedido de Venda.
-
-
-
+                  <p>- Pedido de Compras</p>
+                  <p>- Ordem de Serviço</p>
+                  <p>- Pedido de Venda.</p>
 <p>Documento pronto online, precisão e rapidez! Além disso esteja no controle com os dados em Dashboards de BI para tomada de decisões rapidas e assertivas. SetFocus Brasil Forms & BI
 </p>
 
