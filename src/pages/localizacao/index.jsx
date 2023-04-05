@@ -127,10 +127,17 @@ export default function Contato() {
                   <p>- Pedido de Compras</p>
                   <p>- Ordem de Serviço</p>
                   <p>- Pedido de Venda.</p>
-<p>Documento pronto online, precisão e rapidez! Além disso esteja no controle com os dados em Dashboards de BI para tomada de decisões rapidas e assertivas. SetFocus Brasil Forms & BI
-</p>
+                  
 
-<p>Faça acontecer nos seus Negócios! Transforme informações em Dados valiosos. Faça Análise em Dashboards e gere Laudos e Relatórios a partir de informações coletadas em qualquer ambiente, seja comercial ou industrial. SetFocus Brasil Forms & BI
+
+                  
+
+
+
+Documento pronto online, precisão e rapidez! Além disso esteja no controle com os dados em Dashboards de BI para tomada de decisões rapidas e assertivas. SetFocus Brasil Forms & BI
+
+
+<p>Faça acontecer nos seus Negócios! Transforme informações em Dados valiosos. Faça Análise em Dashboards e gere Laudos e Relatórios a partir de informações coletadas em qualquer ambiente, seja comercial ou industrial. SetFocus Brasil Forms & BI</p>
 
 
                 </p>
