@@ -52,20 +52,20 @@ export default function Contato() {
   return (
     <>
       <Head>
-        <title>Contato | Eletro Santa Clara</title>
+        <title>Contato | SetFocus Brasil Forms & BI</title>
         <meta
           name="description"
-          content="Eletro Santa Clara"
+          content="SetFocus Brasil Forms & BI"
         />
         <meta
           name="keywords"
           content="Forms , BI, Marketing Digital "
         />
-        <meta name="author" content="SetFocus Brasil" />
+        <meta name="author" content="SetFocus Brasil Forms & BI" />
         <script async src="//static.zotabox.com/b/7/b7502fb6f5f765b9614401000a1c1159/widgets.js"></script>
       </Head>
 
-      <HeaderPage subtitle="Faça Acontecer!" title="Nosso Contato." />
+      <HeaderPage subtitle="Faça Acontecer!" title="SetFocus Brasil Forms & BI" />
 
       <main className={`${styles.contact}`}>
         <section className="mainContainer">
