@@ -59,14 +59,13 @@ export default function Contato() {
         />
         <meta
           name="keywords"
-          content="eletro santa clara, materiais elétricos, média tensão,ferragens, alta tensão, tomada, interruptor, disjuntor, contator, para-raio, poste, transformador
-          "
+          content="Forms , BI, Marketing Digital "
         />
-        <meta name="author" content="Eletro Santa Clara" />
+        <meta name="author" content="SetFocus Brasil" />
         <script async src="//static.zotabox.com/b/7/b7502fb6f5f765b9614401000a1c1159/widgets.js"></script>
       </Head>
 
-      <HeaderPage subtitle="Entre em contato conosco" title="Nosso Contato." />
+      <HeaderPage subtitle="Faça Acontecer!" title="Nosso Contato." />
 
       <main className={`${styles.contact}`}>
         <section className="mainContainer">
@@ -125,7 +124,17 @@ export default function Contato() {
               <li>
                 <p>
                   <img src="/icons/localizacaoIcon.svg" alt="Localização" />
-                  Av. Brasil, 589 - Centro
+                  - Pedido de Compras
+- Ordem de Serviço
+- Pedido de Venda
+
+Documento pronto online, precisão e rapidez! Além disso esteja no controle com os dados em Dashboards de BI para tomada de decisões rapidas e assertivas. SetFocus Brasil Forms & BI
+
+
+Faça acontecer nos seus Negócios! Transforme informações em Dados valiosos. Faça Análise em Dashboards e gere Laudos e Relatórios a partir de informações coletadas em qualquer ambiente, seja comercial ou industrial. SetFocus Brasil Forms & BI
+
+
+Saiba a opinião dos seus clientes. Colete informações através de um QRcode e tome as melhores decisões para o futuro do seu negócio. Pense muito a frente dos concorrentes, analisando informações em Dashboards de BI.
                 </p>
                 <p>Lençóis Paulista - SP</p>
               </li>
