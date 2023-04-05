@@ -126,29 +126,31 @@ export default function Contato() {
                   <img src="/icons/localizacaoIcon.svg" alt="Localização" />
                   - Pedido de Compras
 - Ordem de Serviço
-- Pedido de Venda
-
-Documento pronto online, precisão e rapidez! Além disso esteja no controle com os dados em Dashboards de BI para tomada de decisões rapidas e assertivas. SetFocus Brasil Forms & BI
+- Pedido de Venda.
 
 
-Faça acontecer nos seus Negócios! Transforme informações em Dados valiosos. Faça Análise em Dashboards e gere Laudos e Relatórios a partir de informações coletadas em qualquer ambiente, seja comercial ou industrial. SetFocus Brasil Forms & BI
+
+<p>Documento pronto online, precisão e rapidez! Além disso esteja no controle com os dados em Dashboards de BI para tomada de decisões rapidas e assertivas. SetFocus Brasil Forms & BI
+</p>
+
+<p>Faça acontecer nos seus Negócios! Transforme informações em Dados valiosos. Faça Análise em Dashboards e gere Laudos e Relatórios a partir de informações coletadas em qualquer ambiente, seja comercial ou industrial. SetFocus Brasil Forms & BI
 
 
-Saiba a opinião dos seus clientes. Colete informações através de um QRcode e tome as melhores decisões para o futuro do seu negócio. Pense muito a frente dos concorrentes, analisando informações em Dashboards de BI.
                 </p>
-                <p>Lençóis Paulista - SP</p>
+                <p>Saiba a opinião dos seus clientes. Colete informações através de um QRcode e tome as melhores decisões para o futuro do seu negócio. Pense muito a frente dos concorrentes, analisando informações em Dashboards de BI.
+</p>
               </li>
               <li></li>
               <li className={styles.separador}>
                 <p>
                   <img src="/icons/emailIcon.svg" alt="email" />
-                  vendas@eletrosantaclara.com.br
+                  vendas@setfocusbrasil.com.br
                 </p>
               </li>
               <li>
                 <p>
                   <img src="/icons/telefoneIcon.svg" alt="Telefone" />
-                  +55 (14) 3269-1057
+                  +55 (14) 99861-9135
                 </p>
                 {/* <p>+55 (14) 99123-4567</p> */}
               </li>
