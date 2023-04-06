@@ -142,37 +142,12 @@ export default function Contato() {
 </p>
               </li>
               <li></li>
-              <li className={styles.separador}>
-                <p>
-                  <img src="/icons/emailIcon.svg" alt="email" />
-                  vendas@setfocusbrasil.com.br
-                </p>
-              </li>
-              <li>
-                <p>
-                  <img src="/icons/telefoneIcon.svg" alt="Telefone" />
-                  +55 (14) 99861-9135
-                </p>
-                {/* <p>+55 (14) 99123-4567</p> */}
-              </li>
-              <li className={styles.separador}>
-                <p>
-                  <img src="/icons/horarioIcon.svg" alt="Horários" />
-                  08-18h de seg à sex
-                </p>
-                <p>08-12h sáb</p>
-              </li>
+
+ 
+        
               <li className={styles.social}>
-                <Link href="https://www.instagram.com/eletrosantaclara ">
-                  <a target="_blank">
-                    <img src="/icons/instaContato.svg" alt="Instagram" />
-                  </a>
-                </Link>
-                <Link href="https://www.facebook.com/eletrosantaclara">
-                  <a target="_blank">
-                    <img src="/icons/faceContato.svg" alt="Facebook" />
-                  </a>
-                </Link>
+            
+ 
                 {/* <Link href="/">
                   <a>
                     <img src="/icons/youtubeContato.svg" alt="Youtube" />
