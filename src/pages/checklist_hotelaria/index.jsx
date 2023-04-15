@@ -20,16 +20,17 @@ export default function Clinica() {
         <title>Sobre a Empresa | Agência SetFocus</title>
         <meta
           name="description"
-          content="Agência SetFocus - Geramos demanda para seu time de vendas"
+          content="Agência SetFocus - Checklist Eletrônico do quarto de hotel
+          "
         />
         <meta
           name="keywords"
           content="Geramos demanda para seu time de vendas, marketing, marketing digital, marketing online, publicidade digital, campanha google, ads "
         />
-        <meta name="author" content="Eletro Santa Clara" />
+        <meta name="author" content="SetFocus Brasil Forms & BI" />
       </Head>
 
-      <HeaderPage subtitle="Conheça nossa Empresa" title="Pilares estratégicos Marketing Online." />
+      <HeaderPage subtitle="Checklist de Verificação e Conferência" title="Para Hotelaria em Geral." />
 
       <main className={`${styles.clinic} mainContainer`}>
         <div data-aos="fade-up">
@@ -44,22 +45,22 @@ export default function Clinica() {
 
         <div className={styles.clinicDescription} data-aos="fade-up">
           <p>
-          A Eletro Santa Clara foi fundada em Lençóis Paulista, no interior do estado de São Paulo, há mais de três décadas, com o principal objetivo de servir o cidadão lençoense com a mais completa loja de materiais elétricos da cidade. Essa visão inicial foi transformada com o tempo e o crescimento da loja, principalmente com a abertura de sua primeira filial, na Rodovia Osny Mateus. Pois agora somado aos preços baixos e atendimento de excelência, a facilidade de acesso foi mais um atrativo para clientes de toda a região.
+          Veja as Principais vantagens de se realizar checklist eletrônico na inspeção da limpeza de quartos de hotel
           </p>
           <p>
-          Hoje a empresa Eletro Santa Clara, líder no segmento de materiais elétricos na cidade e região, está em processo de melhorias estruturais e organizacionais, visando atender seus clientes, de atacado e varejo, melhor a cada dia. A missão da empresa sempre foi e sempre será levar produtos de qualidade com preço justo e oferecer um atendimento ágil, dinâmico, colaborativo e alegre a todos os seus estimados clientes.
+          1
           </p>
           <p>
-          Nossa empresa trabalha com materiais de baixa, média e alta tensão. Oferecemos a maior agilidade nos orçamentos e nas entregas para toda a região. Somos distribuidores de produtos de qualidade através das marcas líderes no mercado de materiais elétricos.
+          2
           </p>
           <p>
-          Caso tenha alguma duvida, sugestão ou simplesmente queira nos conhecer não hesite em nos contactar. Estamos a disposição com uma equipe treinada para melhor atende-lo.  
+          3
           </p>
         </div>
       </main>
 
       <section className={`${styles.photos} mainContainer`}>
-        <Title subtitle="Algumas marcas" title="Fornecedoras" />
+        <Title subtitle="Algumas telas do nosso Aplicativo" title="Do celular para a tela do Gestor" />
 
         <div className={styles.photosSlider}>
           <ul>
