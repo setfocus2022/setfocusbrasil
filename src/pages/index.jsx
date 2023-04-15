@@ -91,7 +91,7 @@ export default function Home() {
           >
             <MyImage
               src="/images/hero.png"
-              alt="Paciente Sorrindo na clínica"
+              alt="Checklist Eletrônico para Hotelaria"
               width="440"
               height="510"
             />
@@ -125,7 +125,7 @@ export default function Home() {
             <p>
             Entenda o quanto sua empresa pode crescer<strong> com nossas ações de Publicidade Digital. </strong>
             </p>
-            <Button link="/empresa" target="_self">
+            <Button link="" target="_self">
               Conheça nossas mágicas
             </Button>
           </div>
