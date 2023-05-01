@@ -35,7 +35,7 @@ export default function Clinica() {
       <main className={`${styles.clinic} mainContainer`}>
         <div data-aos="fade-up">
           <MyImage
-            src="/images/loja1.jpg"
+            src="/images/check_hotel.jpg"
             alt="Frente da Loja"
             width="430"
             height="508"
