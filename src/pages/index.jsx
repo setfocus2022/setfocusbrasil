@@ -91,7 +91,7 @@ export default function Home() {
             data-aos-delay="400"
           >
             <MyImage
-              src="/images/hero.png"
+              src="/images/4kfundo.mp4"
               alt="Checklist Eletrônico para Hotelaria"
               width="440"
               height="510"
