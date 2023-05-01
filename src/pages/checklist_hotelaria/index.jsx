@@ -76,7 +76,7 @@ Uma vez sincronizado os dados ficam disponíveis para modelagem de seus paineis 
           <ul>
             <li data-aos="zoom-in-up">
               <Image
-                src="/images/loja2.jpg"
+                src="/images/powerbi_hotel.jpg"
                 alt="Foto Loja"
                 width="200"
                 height="130"
@@ -85,7 +85,7 @@ Uma vez sincronizado os dados ficam disponíveis para modelagem de seus paineis 
             </li>
             <li data-aos="zoom-in-up">
               <Image
-                src="/images/loja3.jpg"
+                src="/images/checklist setfocus.jpeg"
                 alt="Foto Loja"
                 width="200"
                 height="130"
@@ -94,7 +94,7 @@ Uma vez sincronizado os dados ficam disponíveis para modelagem de seus paineis 
             </li>
             <li data-aos="zoom-in-up">
               <Image
-                src="/images/loja4.jpg"
+                src="/images/check_hotel.jpeg"
                 alt="Foto Loja"
                 width="200"
                 height="130"
@@ -103,85 +103,14 @@ Uma vez sincronizado os dados ficam disponíveis para modelagem de seus paineis 
             </li>
             <li data-aos="zoom-in-up">
               <Image
-                src="/images/loja5.jpg"
+                src="/images/checklist hotel.jpeg"
                 alt="Foto Loja"
                 width="200"
                 height="130"
                 objectFit="cover"
               />
             </li>
-            <li data-aos="zoom-in-up">
-              <Image
-                src="/images/loja6.jpg"
-                alt="Foto Loja"
-                width="200"
-                height="130"
-                objectFit="cover"
-              />
-            </li>
-            <li data-aos="zoom-in-up">
-              <Image
-                src="/images/loja7.jpg"
-                alt="Foto Loja"
-                width="200"
-                height="130"
-                objectFit="cover"
-              />
-            </li>
-            <li data-aos="zoom-in-up">
-              <Image
-                src="/images/loja8.jpg"
-                alt="Foto Loja"
-                width="200"
-                height="130"
-                objectFit="cover"
-              />
-            </li>
-            <li data-aos="zoom-in-up">
-              <Image
-                src="/images/loja9.jpg"
-                alt="Foto Loja"
-                width="200"
-                height="130"
-                objectFit="cover"
-              />
-            </li>
-            <li data-aos="zoom-in-up">
-              <Image
-                src="/images/loja10.jpg"
-                alt="Foto Loja"
-                width="200"
-                height="130"
-                objectFit="cover"
-              />
-            </li>
-            <li data-aos="zoom-in-up">
-              <Image
-                src="/images/loja11.jpg"
-                alt="Foto Loja"
-                width="200"
-                height="130"
-                objectFit="cover"
-              />
-            </li>
-            <li data-aos="zoom-in-up">
-              <Image
-                src="/images/loja12.jpg"
-                alt="Foto Loja"
-                width="200"
-                height="130"
-                objectFit="cover"
-              />
-            </li>
-            <li data-aos="zoom-in-up">
-              <Image
-                src="/images/loja13.jpg"
-                alt="Foto Loja"
-                width="200"
-                height="130"
-                objectFit="cover"
-              />
-            </li>
+           
 
           </ul>
 
