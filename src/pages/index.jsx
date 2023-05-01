@@ -86,13 +86,14 @@ export default function Home() {
           </section>
 
           <div
+          
             className={styles.imgHero}
             data-aos="fade-up"
             data-aos-delay="400"
           >
-            <MyImage
+            <MyImage         
               src="/images/hero.png"
-              alt="Checklist Eletrônico para Hotelaria"
+              alt="SetFocus Brasil"
               width="440"
               height="510"
             />
