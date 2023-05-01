@@ -47,7 +47,7 @@ export default function Clinica() {
           <p>
           Veja as Principais vantagens de se realizar checklist eletrônico na inspeção da limpeza de quartos de hotel
           </p>
-          O Checklist de Hotelaria é dividido em 3 etapas principais:
+          
           <p>
           1 - Coleta de Dados, através de um link que pode ser acessado diretamente ou pelo Qrcode o Checklist é acionado, onde o usuário preenche as respostas apontando os principais itens de verificação, podendo caso haja alguma não conformidade tirar foto da mesma.
           </p>
