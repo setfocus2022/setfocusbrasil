@@ -62,7 +62,7 @@ export default function Contato() {
           content="Forms , BI, Marketing Digital "
         />
         <meta name="author" content="SetFocus Brasil Forms & BI" />
-        <script async src="//static.zotabox.com/b/7/b7502fb6f5f765b9614401000a1c1159/widgets.js"></script>
+        <script async src="//static.zotabox.com/b/f/bfd73b6d1f82ba0ba82d646269efd5e4/widgets.js"></script>
       </Head>
 
       <HeaderPage subtitle="Faça Acontecer!" title="SetFocus Brasil Forms & BI" />
