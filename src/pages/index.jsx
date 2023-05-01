@@ -58,6 +58,7 @@ export default function Home() {
         <div className={`mainContainer ${styles.heroWrap}`}>
           <section className={styles.leftContent}>
             <h1 className="title" data-aos="fade-up">
+              <p></p>
             Faça <strong>Acontecer! </strong>
             </h1>
 
