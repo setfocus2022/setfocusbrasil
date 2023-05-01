@@ -17,7 +17,7 @@ export default function Clinica() {
   return (
     <>
       <Head>
-        <title>Sobre a Empresa | Agência SetFocus</title>
+        <title>Checklist Quartos de Hotel | SetFocus Brasil</title>
         <meta
           name="description"
           content="Agência SetFocus - Checklist Eletrônico do quarto de hotel

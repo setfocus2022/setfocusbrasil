@@ -69,7 +69,17 @@ export const Header = () => {
               <a>Como chegar o Topo </a>
             </Link>
 
-           
+            <Link href="/checklist_hotelaria">
+              <a>Checklist Hotel</a>
+            </Link>
+
+            <Link href="/checklist_hotelaria">
+              <a>Checklist NR12</a>
+            </Link>
+
+            <Link href="/checklist_hotelaria">
+              <a>Checklist Postos de Combustível</a>
+            </Link>
          
 
           </nav>
