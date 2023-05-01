@@ -49,13 +49,22 @@ export default function Clinica() {
           </p>
           O Checklist de Hotelaria é dividido em 3 etapas principais:
           <p>
-          1 - - Coleta de Dados, através de um link que pode ser acessado diretamente ou pelo Qrcode o Checklist é acionado, onde o usuário preenche as respostas apontando os principais itens de verificação, podendo caso haja alguma não conformidade tirar foto da mesma.
+          1 - Coleta de Dados, através de um link que pode ser acessado diretamente ou pelo Qrcode o Checklist é acionado, onde o usuário preenche as respostas apontando os principais itens de verificação, podendo caso haja alguma não conformidade tirar foto da mesma.
           </p>
           <p>
-          2
+          2- Trasmissão e Armazenamento
+
+Todo processo de preenchimento do checklist conta com um algoritimno de IA que analisa todo o processo a fim de melhorar as questões e evoluir o produto. O usuário pode optar por criar gatilhos de notificação que serao enviados ao e-mail do gestor automaticamente.
+
+A cada checklist realizado é feito a sincronização dos dados.
+
+O gestor rerceber em seu e-mail o checklist para ser avaliado e tambem fica disponivel em nuvem para quaisquer consulta posterior.
+
           </p>
           <p>
-          3
+          3  - Dashboards no Power BI
+
+Uma vez sincronizado os dados ficam disponíveis para modelagem de seus paineis de controle em Powerbi. Nesse pacote entregamos o Dashboard padrão de Checvklist de quartos de Hotel e tambem deixamos o acesso para que o gestor e sua equipe possam modelar outros templates de BI conforma a necessidade.
           </p>
         </div>
       </main>
