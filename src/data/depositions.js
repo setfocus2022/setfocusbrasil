@@ -11,12 +11,7 @@ export const depositions = [
     description:
       "Vender castanha do Pará a nível nacional parecia impossível, mas a SetFocus Brasil nos proporcionou essa mágica, só tenho a agradecer ",                                  
    },
-   {
-    id: 3,
-    name: "Claudio Carrilho - Eletro Santa Clara",
-    description:
-      " Se você deixa de investir em publicidade, seja qual seja o tipo de mídia, sua enpresa deixa de existir para o público consumidor  ",                                  
-   },
+   
 
 
   // {
