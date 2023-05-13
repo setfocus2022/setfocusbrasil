@@ -71,7 +71,9 @@ export const Header = () => {
               <a>Checklist Hotel</a>
             </Link>
 
-
+            <Link href="/checklist">
+              <a>Checklist</a>
+            </Link>
 
             <Link href="/checklist_hotelaria">
               <a>Checklist Postos de Combustível</a>
@@ -124,7 +126,11 @@ export const Header = () => {
                 <a>Checklist Hotel</a>
               </Link>
             </li>
- 
+            <li onClick={closeMenu}>
+              <Link href="/checklist">
+                <a>Checklist </a>
+              </Link>
+            </li>
            
             <li onClick={agendarConsultaMenu}>
               <Link href="https://wa.me/5514997406893">
