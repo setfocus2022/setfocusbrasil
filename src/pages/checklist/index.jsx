@@ -17,10 +17,10 @@ export default function Clinica() {
   return (
     <>
       <Head>
-        <title>Checklist Quartos de Hotel | SetFocus Brasil</title>
+        <title>Checklist | SetFocus Brasil</title>
         <meta
           name="description"
-          content="Agência SetFocus - Checklist Eletrônico do quarto de hotel
+          content="Agência SetFocus - Checklist Eletrônico 
           "
         />
         <meta
@@ -30,7 +30,7 @@ export default function Clinica() {
         <meta name="author" content="SetFocus Brasil Forms & BI" />
       </Head>
 
-      <HeaderPage subtitle="Checklist de Verificação e Conferência" title="Para Hotelaria em Geral." />
+      <HeaderPage subtitle="Checklist de Verificação e Conferência" title="" />
 
       <main className={`${styles.clinic} mainContainer`}>
         <div data-aos="fade-up">
