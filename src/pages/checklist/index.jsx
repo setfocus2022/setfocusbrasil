@@ -60,7 +60,7 @@ Em base no preenchimento do mesmo é possivel ter um cenário claro e preciso da
 
           É previamente criada as questões em cima do tema ou situação abordada. Exemplo: Nossa empresa é uma lanchonete com uma pegada jovem, gostariamos de saber a preferência dos consumidores em relação ao tipo de musica ambiente apresentada pela casa. Exemplo na Industria: Nossa empresa trabalha com manutenção e gostariamos de fazer analises e previsões sobre o funcionamento do parque de maquinas da Industria X.
 
-A partir do questionário formulado os profissionais da área realização o preenchimento do checklist e transmitirão os dados para uma base de analise. Lembrando que com os recursos atuais os dados de checklist e formulários podem chegar de inumeras fontes, incluindo equipamento eletrônicos dotados de IA e analise contínua.
+A partir do questionário formulado os profissionais da área realização o preenchimento do checklist e transmitirão os dados para uma base de analise. Lembrando que com os recursos atuais os dados de checklist e formulários podem chegar de inúmeras fontes, incluindo equipamentos eletrônicos dotados de IA e analise contínua.
 
           </p>
           <p>
