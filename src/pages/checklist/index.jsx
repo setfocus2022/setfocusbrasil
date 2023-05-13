@@ -46,37 +46,37 @@ export default function Clinica() {
         <div className={styles.clinicDescription} data-aos="fade-up">
           <p>
           Veja as Principais vantagens de se realizar checklist eletrônico 
-          </p>
-          
-          <p>
-          O que é ? - Checklist e Formulários são uma forma de se avaliar qualquer tipo de coisa. seja pessoas,equipamentos, situações. 
-Consiste em formular questões pertinentes ao assunnto ou objetivo abordado e apica-las em campo.
-Em base no preenchimento do mesmo é possivel ter um cenário claro e preciso da parte analisada
+          </p>
+          
+          <p>
+          O que é? , Checklist e Formulários são uma forma de se avaliar qualquer tipo de coisa. Sejam pessoas, equipamentos, situações. 
+Consiste em formular questões pertinentes ao assunto ou objetivo abordado e acicalas em campo.
+Em base no preenchimento deste é possível ter um cenário claro e preciso da parte analisada
 
 
-          </p>
-          <p>
-          Como Funciona? - 
+          </p>
+          <p>
+          Como Funciona?
 
-          É previamente criada as questões em cima do tema ou situação abordada. Exemplo: Nossa empresa é uma lanchonete com uma pegada jovem, gostariamos de saber a preferência dos consumidores em relação ao tipo de musica ambiente apresentada pela casa. Exemplo na Industria: Nossa empresa trabalha com manutenção e gostariamos de fazer analises e previsões sobre o funcionamento do parque de maquinas da Industria X.
+          É previamente criada as questões em cima do tema ou situação abordada. Exemplo: Nossa empresa é uma lanchonete com uma pegada jovem, gostaríamos de saber a preferência dos consumidores em relação ao tipo de música ambiente apresentada pela casa. Exemplo na Indústria: Nossa empresa trabalha com manutenção e gostaríamos de fazer analises e previsões sobre o funcionamento do parque de máquinas da Indústria X.
 
-A partir do questionário formulado os profissionais da área realização o preenchimento do checklist e transmitirão os dados para uma base de analise. Lembrando que com os recursos atuais os dados de checklist e formulários podem chegar de inúmeras fontes, incluindo equipamentos eletrônicos dotados de IA e analise contínua.
+A partir do questionário formulado os profissionais da área realização o preenchimento do checklist e transmitirão os dados para uma base de análise. Lembrando que com os recursos atuais os dados de checklist e formulários podem chegar de inumar fontes, incluindo equipamentos eletrônicos dotados de IA e analise contínua.
 
-          </p>
-          <p>
-          Qual a Importãncia? - 
+          </p>
+          <p>
+          Qual a Importância?
 
 
-          A mais importante e primordial vantagem é deixar claro o cenário e trazer informações assertivas ao gestor para tomadas de decisões assertivas.
+          A mais importante e primordial vantagem é deixar claro o cenário e trazer informações assertivas ao gestor para tomadas de decisões assertivas.
 
-Os Checvklists eletrônicos fornecem uma ventagem gigante na questão de acerto na transmissão de dados em relação ao papel e caneta tradicional, evitando interpretações e re-trabalho.
+Os Checklists eletrônicos fornecem uma ventagem gigante na questão de acerto na transmissão de dados em relação ao papel e caneta tradicional, evitando interpretações e re-trabalho.
 
-          </p>
+          </p>
 
-          <p>
-          Vantagens? - 
+          <p>
+          Vantagens?
 
-          Uma empresa que aplica Checklist e Formulários em seus processos e atividades consegue mensurar dados e padrões que outras empresas não observariam. Além de trazer mais eficiência e transparencia na execução de suas atividades.
+          Uma empresa que aplica Checklist e Formulários em seus processos e atividades consegue mensurar dados e padrões que outras empresas não observariam. Além de trazer mais eficiência e transparência na execução de suas atividades.
 
 Tudo agora e na hora. Rapidez na transmissão, execução e apresentação dos resultados.
 
