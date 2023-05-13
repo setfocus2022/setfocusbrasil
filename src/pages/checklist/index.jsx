@@ -49,14 +49,14 @@ export default function Clinica() {
           </p>
           
           <p>
-          O que é? , Checklist e Formulários são uma forma de se avaliar qualquer tipo de coisa. seja pessoas,equipamentos, situações. 
+          O que é ? - Checklist e Formulários são uma forma de se avaliar qualquer tipo de coisa. seja pessoas,equipamentos, situações. 
 Consiste em formular questões pertinentes ao assunnto ou objetivo abordado e apica-las em campo.
 Em base no preenchimento do mesmo é possivel ter um cenário claro e preciso da parte analisada
 
 
           </p>
           <p>
-          Como Funciona?
+          Como Funciona? - 
 
           É previamente criada as questões em cima do tema ou situação abordada. Exemplo: Nossa empresa é uma lanchonete com uma pegada jovem, gostariamos de saber a preferência dos consumidores em relação ao tipo de musica ambiente apresentada pela casa. Exemplo na Industria: Nossa empresa trabalha com manutenção e gostariamos de fazer analises e previsões sobre o funcionamento do parque de maquinas da Industria X.
 
@@ -64,7 +64,7 @@ A partir do questionário formulado os profissionais da área realização o pre
 
           </p>
           <p>
-          Qual a Importãncia?
+          Qual a Importãncia? - 
 
 
           A mais importante e primordial vantagem é deixar claro o cenário e trazer informações assertivas ao gestor para tomadas de decisões assertivas.
@@ -74,11 +74,11 @@ Os Checvklists eletrônicos fornecem uma ventagem gigante na questão de acerto 
           </p>
 
           <p>
-          Vantagens?
+          Vantagens? - 
 
-          Uma empresa que aplica Checklist e Formulários em seus processos e atividades consegue mensurar dados e padrões que outras emopresas não observariam. Além de trazer mais eficiência e transparencia na execução de suas atividades.
+          Uma empresa que aplica Checklist e Formulários em seus processos e atividades consegue mensurar dados e padrões que outras empresas não observariam. Além de trazer mais eficiência e transparencia na execução de suas atividades.
 
-Tudo agora e na hora. Rapides na transmissão, execução e apresentação dos resultados.
+Tudo agora e na hora. Rapidez na transmissão, execução e apresentação dos resultados.
 
           </p>
         </div>
