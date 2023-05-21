@@ -138,6 +138,52 @@ export default function Home() {
         </div>
       </section>
 
+   <main className={styles.hero}>
+        <div className={`mainContainer ${styles.heroWrap}`}>
+          <section className={styles.leftContent}>
+            <h1 className="title" data-aos="fade-up">
+              <p></p>
+            Faça <strong>Acontecer! </strong>
+            </h1>
+
+          
+            <p data-aos="fade-up" data-aos-delay="200">
+            Saiba como a SetFocus Brasil consegue potencializar seus resultados. Saiba o que nossa mágica é capaz de fazer por sua empresa.             </p>
+           
+  
+            <div
+              className={styles.btnWrap}
+              data-aos="fade-up"
+              data-aos-delay="500"
+            >
+              <Button
+                onClick={agendarConsulta}
+                link="https://wa.me/5514997406893"
+              >
+                <img src="/icons/whatsIcon.svg" alt="whatsapp" />
+                Impulsione seus negócios
+              </Button>
+              {/* <span>
+                Ou nos ligue: <strong>(14) 3264-9999</strong>
+              </span> */}
+            </div>
+          </section>
+
+          <div
+          
+            className={styles.imgHero}
+            data-aos="fade-up"
+            data-aos-delay="400"
+          >
+            <MyImage         
+              src="/images/hero.png"
+              alt="SetFocus Brasil"
+              width="440"
+              height="510"
+            />
+          </div>
+        </div>
+      </main>
 
       <section className={`${styles.about} mainContainer`}>
        
