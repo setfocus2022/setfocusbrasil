@@ -224,42 +224,52 @@ export default function Home() {
 
 
 
-           <section className={`${styles.about} mainContainer`}>
-       
-        {/*<div data-aos="fade-down">
-          <Title color="blue" title="junior" subtitle="Conheça nossas Lojas" />
-         <p><strong>Conheça nossas Lojas</strong></p>  
-        </div> */}
+     <main className={styles.hero}>
+        <div className={`mainContainer ${styles.heroWrap}`}>
+          <section className={styles.leftContent}>
+            <h1 className="title" data-aos="fade-up">
+              <p></p>
+            Faça <strong>Acontecer! </strong>
+            </h1>
 
-        <div className={styles.aboutContent}>
-         
-        <div className={styles.imgAbout} data-aos="fade-up">
-            <MyImage
-              src="/images/fachada.jpg"
-              alt="Fachada"
-              width="540"
-              height="500"
-              left
+          
+            <p data-aos="fade-up" data-aos-delay="200">
+            Saiba como a SetFocus Brasil consegue potencializar seus resultados. Saiba o que nossa mágica é capaz de fazer por sua empresa.             </p>
+           
+  
+            <div
+              className={styles.btnWrap}
+              data-aos="fade-up"
+              data-aos-delay="500"
+            >
+              <Button
+                onClick={agendarConsulta}
+                link="https://wa.me/5514997406893"
+              >
+                <img src="/icons/whatsIcon.svg" alt="whatsapp" />
+                Impulsione seus negócios
+              </Button>
+              {/* <span>
+                Ou nos ligue: <strong>(14) 3264-9999</strong>
+              </span> */}
+            </div>
+          </section>
+
+          <div
+          
+            className={styles.imgHero}
+            data-aos="fade-up"
+            data-aos-delay="400"
+          >
+            <MyImage         
+              src="/images/hero.png"
+              alt="SetFocus Brasil"
+              width="440"
+              height="510"
             />
           </div>
-
-          <div className={styles.aboutRightContent} data-aos="fade-up">
-            <h3>
-              <strong2>Transforme suas ideias em  </strong2> <strong>oportunidades.</strong>
-            </h3>
-            <p>
-            Entenda o quanto sua empresa pode crescer<strong> com nossas ações de Publicidade Digital. </strong>
-            </p>
-            <Button link="" target="_self">
-              Conheça nossas mágicas
-            </Button>
-          </div>
-
-
-
-
         </div>
-      </section>
+      </main>
 
       {/*  <section className={styles.treatments}>
         <div data-aos="fade-down">
