@@ -59,7 +59,7 @@ export default function Home() {
           <section className={styles.leftContent}>
             <h1 className="title" data-aos="fade-up">
               <p></p>
-            Faça <strong>Acontecer! </strong>
+            Site <strong>em criação continua pela IA da SetFocus </strong>
             </h1>
 
           
