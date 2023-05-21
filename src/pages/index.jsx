@@ -138,6 +138,83 @@ export default function Home() {
         </div>
       </section>
 
+
+      <section className={`${styles.about} mainContainer`}>
+       
+       {/*<div data-aos="fade-down">
+         <Title color="blue" title="junior" subtitle="Conheça nossas Lojas" />
+        <p><strong>Conheça nossas Lojas</strong></p>  
+       </div> */}
+
+       <div className={styles.aboutContent}>
+        
+       <div className={styles.imgAbout} data-aos="fade-up">
+           <MyImage
+             src="/images/fachada.jpg"
+             alt="Fachada"
+             width="540"
+             height="500"
+             left
+           />
+         </div>
+
+         <div className={styles.aboutRightContent} data-aos="fade-up">
+           <h3>
+             <strong2>Transforme suas ideias em  </strong2> <strong>oportunidades.</strong>
+           </h3>
+           <p>
+           Entenda o quanto sua empresa pode crescer<strong> com nossas ações de Publicidade Digital. </strong>
+           </p>
+           <Button link="" target="_self">
+             Conheça nossas mágicas
+           </Button>
+         </div>
+
+
+
+
+       </div>
+     </section>
+
+
+
+           <section className={`${styles.about} mainContainer`}>
+       
+        {/*<div data-aos="fade-down">
+          <Title color="blue" title="junior" subtitle="Conheça nossas Lojas" />
+         <p><strong>Conheça nossas Lojas</strong></p>  
+        </div> */}
+
+        <div className={styles.aboutContent}>
+         
+        <div className={styles.imgAbout} data-aos="fade-up">
+            <MyImage
+              src="/images/fachada.jpg"
+              alt="Fachada"
+              width="540"
+              height="500"
+              left
+            />
+          </div>
+
+          <div className={styles.aboutRightContent} data-aos="fade-up">
+            <h3>
+              <strong2>Transforme suas ideias em  </strong2> <strong>oportunidades.</strong>
+            </h3>
+            <p>
+            Entenda o quanto sua empresa pode crescer<strong> com nossas ações de Publicidade Digital. </strong>
+            </p>
+            <Button link="" target="_self">
+              Conheça nossas mágicas
+            </Button>
+          </div>
+
+
+
+
+        </div>
+      </section>
+
       {/*  <section className={styles.treatments}>
         <div data-aos="fade-down">
           <Title title="Tratamentos" subtitle="Principais serviços" />
