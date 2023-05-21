@@ -32,7 +32,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Home | Agência SetFocus Brasil - Conectando sua Empresa à Novos Clientes</title>
+        <title>Home | Agência SetFocus Brasil - Marketing | Forms & BI | Check List Eletrônico</title>
         <meta
           name="description"
           content="Agência SetFocus Brasil - Geramos demanda para seu time de vendas"
