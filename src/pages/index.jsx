@@ -143,12 +143,12 @@ export default function Home() {
           <section className={styles.leftContent}>
             <h1 className="title" data-aos="fade-up">
               <p></p>
-            Faça <strong>Acontecer! </strong>
+            Mapa <strong>de Check List! </strong>
             </h1>
 
           
             <p data-aos="fade-up" data-aos-delay="200">
-            Saiba como a SetFocus Brasil consegue potencializar seus resultados. Saiba o que nossa mágica é capaz de fazer por sua empresa.             </p>
+            Acompanhe todo a dinamica desde a coleta de dados até o BI             </p>
            
   
             <div
