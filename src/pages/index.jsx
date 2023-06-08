@@ -196,7 +196,7 @@ export default function Home() {
         
        <div className={styles.imgAbout} data-aos="fade-up">
            <MyImage
-             src="/images/fachada.jpg"
+             src="/images/nr12se.jpg"
              alt="Fachada"
              width="540"
              height="500"
@@ -209,7 +209,7 @@ export default function Home() {
              <strong2>Ganhe tempo! </strong2> <strong>automatize seus Processos.</strong>
            </h3>
            <p>
-           Geração do documento automático<strong> Checklist eletrônico NR12 atualizado, Inventário e Lado. </strong>
+           Geração do documento automático<strong> Checklist eletrônico NR12 atualizado, Inventário e Laudo. </strong>
            </p>
            <Button link="" target="_self">
            Saiba mais sobre a NR12 Automatizada
