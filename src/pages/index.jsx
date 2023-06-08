@@ -148,7 +148,7 @@ export default function Home() {
 
           
             <p data-aos="fade-up" data-aos-delay="200">
-            Acompanhe todo a dinamica desde a coleta de dados até o BI             </p>
+            Acompanhe todo a dinâmica desde a coleta de dados até o BI             </p>
            
   
             <div
@@ -206,13 +206,13 @@ export default function Home() {
 
          <div className={styles.aboutRightContent} data-aos="fade-up">
            <h3>
-             <strong2>Transforme suas ideias em  </strong2> <strong>oportunidades.</strong>
+             <strong2>Ganhe tempo! </strong2> <strong>automatize seus Processos.</strong>
            </h3>
            <p>
-           Entenda o quanto sua empresa pode crescer<strong> com nossas ações de Publicidade Digital. </strong>
+           Geração do documento automático<strong> Checklist eletrônico NR12 atualizado, Inventário e Lado. </strong>
            </p>
            <Button link="" target="_self">
-             Conheça nossas mágicas
+           Saiba mais sobre a NR12 Automatizada
            </Button>
          </div>
 
