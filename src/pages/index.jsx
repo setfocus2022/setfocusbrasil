@@ -196,7 +196,7 @@ export default function Home() {
         
        <div className={styles.imgAbout} data-aos="fade-up">
            <MyImage
-             src="/images/nr12.png"
+             src="/images/NR12.png"
              alt="Fachada"
              width="540"
              height="500"
