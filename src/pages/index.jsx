@@ -31,14 +31,14 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Home | Agência SetFocus Brasil - Marketing | Forms & BI | Check List Eletrônico</title>
+        <title>Home | Agência SetFocus Brasil - TCAD - Tecnologia de Coleta e Analise de Dados</title>
         <meta
           name="description"
           content="Agência SetFocus Brasil - TECAD Labs - Tecnologia de Coleta e Analise de Dados"
         />
         <meta
           name="keywords"
-          content=" Geramos demanda para seu time de vendas, marketing, marketing digital, marketing online, publicidade digital, campanha google, ads "
+          content=" TCAD - Tecnologia de Coleta e Analise de Dados TCAD Labs - Central de Desenhvolvimento do Produto "
       
         />
         <meta name="author" content="SetFocus Brasil" />
@@ -59,13 +59,16 @@ export default function Home() {
           <section className={styles.leftContent}>
             <h1 className="title" data-aos="fade-up">
               <p></p>
-            Site <strong>em criação continua pela IA da SetFocus </strong>
+              Realize <strong> seus projetos com nossa tecnologia TCAD </strong>
             </h1>
 
           
             <p data-aos="fade-up" data-aos-delay="200">
-            Saiba como a SetFocus Brasil consegue potencializar seus resultados. Saiba o que nossa mágica é capaz de fazer por sua empresa.             </p>
-           
+            TCAD - Tecnologia de Coleta e Analise de Dados
+TCAD Labs - Central de Desenhvolvimento do Produto
+TCAD Docs - Gestão de Documentos 
+TCAD Analytics - Business Inteligence 
+
   
             <div
               className={styles.btnWrap}
