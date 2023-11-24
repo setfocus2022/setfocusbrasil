@@ -8,7 +8,6 @@ import { MyImage } from "../components/MyImage";
 import { Title } from "../components/Title";
 import { Footer } from "../components/Footer";
 import { depositions } from "../data/depositions.js";
-import * as gtag from "../lib/gtag";
 import Aos from "aos";
 import "aos/dist/aos.css";
 import styles from "../styles/Home.module.scss";
@@ -35,7 +34,7 @@ export default function Home() {
         <title>Home | Agência SetFocus Brasil - Marketing | Forms & BI | Check List Eletrônico</title>
         <meta
           name="description"
-          content="Agência SetFocus Brasil - Geramos demanda para seu time de vendas"
+          content="Agência SetFocus Brasil - TECAD Labs - Tecnologia de Coleta e Analise de Dados"
         />
         <meta
           name="keywords"

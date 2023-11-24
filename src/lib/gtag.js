@@ -14,4 +14,4 @@ export const event = ({ action, category, label, value }) => {
     event_label: label,
     value: value,
   })
-}
+},
