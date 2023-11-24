@@ -59,16 +59,14 @@ export default function Home() {
           <section className={styles.leftContent}>
             <h1 className="title" data-aos="fade-up">
               <p></p>
-              Realize <strong> seus projetos com nossa tecnologia TCAD </strong>
+              Realize <strong> seus projetos com nossa tecnologia TCAD
+ </strong>
             </h1>
 
           
             <p data-aos="fade-up" data-aos-delay="200">
-            TCAD - Tecnologia de Coleta e Analise de Dados
-TCAD Labs - Central de Desenhvolvimento do Produto
-TCAD Docs - Gestão de Documentos 
-TCAD Analytics - Business Inteligence 
-
+            TCAD - Tecnologia de Coleta e Analise de Dados * TCAD Labs - Central de Desenhvolvimento do Produto * TCAD Docs - Gestão de Documentos * TCAD Analytics - Business Inteligence </p>
+           
   
             <div
               className={styles.btnWrap}
