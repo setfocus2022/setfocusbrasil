@@ -66,8 +66,6 @@ export default function Home() {
           
             <p data-aos="fade-up" data-aos-delay="200">
             TCAD - Tecnologia de Coleta e Analise de Dados TCAD Labs - Central de Desenhvolvimento do Produto  TCAD Docs - Gestão de Documentos, TCAD Analytics - Business Inteligence </p>
-           
-  
             <div
               className={styles.btnWrap}
               data-aos="fade-up"
