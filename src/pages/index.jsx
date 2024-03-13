@@ -31,7 +31,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Home | Agência SetFocus Brasil - TCAD - Tecnologia de Coleta e Analise de Dados</title>
+        <title>Home | AVALIE - TCAD - Tecnologia de Coleta e Analise de Dados</title>
         <meta
           name="description"
           content="Agência SetFocus Brasil - TECAD Labs - Tecnologia de Coleta e Analise de Dados"
