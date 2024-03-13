@@ -26,7 +26,7 @@ export const Header = () => {
     gtag.event({
       action: "agendar_consulta_cabeçalho",
       category: "marcar_consulta_whatsapp_cabeçalho",
-      label: "Fale conosco",
+      label: "Faça sua Avaliação de Imóvel",
       value: "Fale Conosco",
     });
   }
